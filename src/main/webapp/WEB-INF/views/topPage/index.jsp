@@ -55,4 +55,4 @@
         </div>
         <p><a href="<c:url value='?action=${actRep}&command=${commNew}' />">新規日報の登録</a></p>
     </c:param>
-</c:import>}
+</c:import>
